@@ -8,9 +8,7 @@ This app is for anyone that wants to DDoS some stupid kid's Minecraft server.  W
 ### The Early Days
 666 years ago, Lusin played on a Minecraft server named ShockNetwork hosted by a friend named FlamingPaw.  There was many good times, and Lusin dominated the server with epic skills and awesome hacks.
 
-Until one day, FlamingPaw told Lusin Spongebob was a superior anime than My Little Pony.
-
-**HOW DARE FLAMINGPAW CHOOSE SPONGEBOB OVER MY LITTLE PONY!**
+Until one day, FlamingPaw told Lusin Spongebob was a superior anime than My Little Pony.  HOW DARE FLAMINGPAW CHOOSE SPONGEBOB OVER MY LITTLE PONY!
 
 ### Minecraft Server DDoS'er Development
 Lusin got to work developing the Minecraft Server DDoS'er.  Lusin is the greatest programmer who has ever lived, and within a month, created the Minecraft Server DDoS'er!

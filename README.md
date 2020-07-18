@@ -2,7 +2,7 @@
 
 ## Synopsis
 Do you want to troll an entire Minecraft server?
-This app is for anyone that wants to DDoS some stupid kid's Minecraft server.  What you are seeing is a tool of evil, a tool of revenge.  Making a Minecraft server crash is actually quite easy. This Minecraft hack works on all servers, and it's free!
+This app is for anyone that wants to DDoS some stupid kid's Minecraft server.  What you are seeing is a tool of evil, a tool of revenge.  This Minecraft hack works on all servers, and it's free!
 
 ## History
 666 years ago, Lusin played on a Minecraft server named ShockNetwork hosted by a friend named FlamingPaw.  There was many good times, and Lusin dominated the server with epic skills and awesome hacks.

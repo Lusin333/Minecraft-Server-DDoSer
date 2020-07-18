@@ -9,7 +9,7 @@ This app is for anyone that wants to DDoS some stupid kid's Minecraft server.  W
 
 Until one day, FlamingPaw said Spongebob was a better anime than My Little Pony.
 
-The Minecraft Server DDoS'er was used on FlamingPaw's Server.  Within a single day, FlamingPaw apologized and accepted that Lusin was right:  My Little Pony is the greatest anime of all-time.
+The Minecraft Server DDoS'er destroyed FlamingPaw's Server.  Within a single day, FlamingPaw apologized and accepted that Lusin was right:  My Little Pony is the greatest anime of all-time.
 
 ## Download
 **[Minecraft Server DDoSer DOWNLOAD](https://github.com/Lusin333/Minecraft-Server-DDoSer/releases/download/2020-06-03/Meinkraft.Server.DDoS.er.exe)**

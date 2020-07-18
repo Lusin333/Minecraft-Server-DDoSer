@@ -1,4 +1,4 @@
-# Minecraft-Server-DDoSer
+# Minecraft Server DDoS'er
 
 ## Synopsis
 Do you want to troll an entire Minecraft server?

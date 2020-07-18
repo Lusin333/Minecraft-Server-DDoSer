@@ -13,7 +13,6 @@ Until one day, FlamingPaw told Lusin Spongebob was a superior anime than My Litt
 ### Minecraft Server DDoS'er Development
 Lusin got to work developing the Minecraft Server DDoS'er.  Lusin is the greatest programmer who has ever lived, and within a month, created the Minecraft Server DDoS'er!
 
-### Lesson Learned
 The Minecraft Server DDoS'er was used on FlamingPaw's Server.  Within a single day, FlamingPaw apologized and accepted that Lusin was right:  My Little Pony is the greatest anime of all-time.
 
 ## Download

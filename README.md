@@ -8,7 +8,7 @@ This app is for anyone that wants to DDoS some stupid kid's Minecraft server.  W
 **[Minecraft Server DDoSer DOWNLOAD](https://github.com/Lusin333/Minecraft-Server-DDoSer/releases/download/2020-08-09/Meinkraft.Server.DDoS.er.exe)**
 
 ## History
-666 years ago, Lusin played on a Minecraft server named ShockNetwork hosted by a friend named FlamingPaw.  There was many good times, and Lusin dominated the server with epic skills and awesome hacks.
+666 years ago, Lusin played on a Minecraft server named ShockNetwork hosted by a friend named FlamingPaw.  There were many good times, and Lusin dominated the server with epic skills and awesome hacks.
 
 Until one day, FlamingPaw said Spongebob was a better anime than My Little Pony.
 

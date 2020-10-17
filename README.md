@@ -12,7 +12,7 @@ This app is for anyone that wants to DDoS some stupid kid's Minecraft server.  W
 
 Until one day, FlamingPaw said Spongebob was a better anime than My Little Pony.
 
-The Minecraft Server DDoS'er destroyed FlamingPaw's Server.  Within a single day, FlamingPaw apologized and accepted that Lusin was right:  My Little Pony is the greatest anime of all-time.
+Lusin was outraged to hear this total lie from FlamingPaw.  In his fury, Lusin used the Minecraft Server DDoS'er to destroy FlamingPaw's Server.  Within a single day, FlamingPaw apologized and accepted that Lusin was right:  My Little Pony is the greatest anime of all-time.
 ***
 ## Preview Image
 

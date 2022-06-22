@@ -1,6 +1,7 @@
 # Minecraft Server DDoS'er
 
 ## Synopsis
+
 Do you want to troll an entire Minecraft server?
 This app is for anyone that wants to DDoS some stupid kid's Minecraft server.  What you are seeing is a tool of evil, a tool of revenge.  This Minecraft hack works on all servers, and it's free!
 
@@ -25,3 +26,5 @@ Lusin was outraged to hear this total lie from FlamingPaw.  In his fury, Lusin u
 * 📸 [Lusin's Instagram](https://www.instagram.com/Lusin.333/)
 * 👩‍💻 [Lusin's Github](https://Github.com/Lusin333)
 
+***
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Lusin.visitor-badge&left_text=Minecraft%20Server%20DDoS'er%20Visitors)

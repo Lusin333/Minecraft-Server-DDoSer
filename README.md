@@ -15,10 +15,15 @@ Until one day, FlamingPaw said Spongebob was a better anime than My Little Pony.
 
 Lusin was outraged to hear this total lie from FlamingPaw.  In his fury, Lusin used the Minecraft Server DDoS'er to destroy FlamingPaw's Server.  Within a single day, FlamingPaw apologized and accepted that Lusin was right:  My Little Pony is the greatest anime of all-time.
 ***
+
 ## Preview Image
 
-![alt text](https://raw.githubusercontent.com/Lusin333/Meinkraft-Server-DDoSer/master/Meinkraft%20Server%20DDOS'er%20Icon%20-%20Lusin.png)
-![alt text](https://raw.githubusercontent.com/Lusin333/Meinkraft-Server-DDoSer/master/Meinkraft%20Server%20DDoS'er%20Preview%20Pic.png)
+<div id="Preview Images">
+</a>
+<img src="https://raw.githubusercontent.com/Lusin333/Meinkraft-Server-DDoSer/master/Meinkraft%20Server%20DDoS'er%20Preview%20Pic.png" data-canonical-src="https://raw.githubusercontent.com/Lusin333/Meinkraft-Server-DDoSer/master/Meinkraft%20Server%20DDoS'er%20Preview%20Pic.png" width="480" />
+</a>
+<img src="https://raw.githubusercontent.com/Lusin333/Meinkraft-Server-DDoSer/master/Meinkraft%20Server%20DDOS'er%20Icon%20-%20Lusin.png" data-canonical-src="https://raw.githubusercontent.com/Lusin333/Meinkraft-Server-DDoSer/master/Meinkraft%20Server%20DDOS'er%20Icon%20-%20Lusin.png" width="225" />
+</div>
 
 ## Follow Lusin
 * 🎥 [Lusin's Youtube](https://www.Youtube.com/c/Lusin333?sub_confirmation=1)

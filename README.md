@@ -29,7 +29,7 @@ Lusin was outraged to hear this total lie from FlamingPaw.  In his fury, Lusin u
 * 🎥 [Lusin's Youtube](https://www.Youtube.com/c/Lusin333?sub_confirmation=1)
 * 🐦 [Lusin's Twitter](https://Twitter.com/Lusin333)
 * 📸 [Lusin's Instagram](https://www.instagram.com/Lusin.333)
-* 📽️ [[Lusin's TikTok](https://www.tiktok.com/@lusin.333)
+* 📽️ [Lusin's TikTok](https://www.tiktok.com/@lusin.333)
 * 👩‍💻 [Lusin's Github](https://Github.com/Lusin333)
 
 ***

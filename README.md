@@ -3,7 +3,7 @@
 ## Synopsis
 
 Do you want to troll an entire Minecraft server?
-This app is for anyone that wants to DDoS some stupid kid's Minecraft server.  What you are seeing is a tool of evil, a tool of revenge.  This Minecraft hack works on all servers, and it's free!
+This app is for anyone that wants to DDoS some stupid kid's Minecraft server.  What you are seeing is a *tool of evil, a tool of revenge.*  This Minecraft hack works on all servers, and it's free!
 
 ## Download
 **[Minecraft Server DDoSer DOWNLOAD](https://github.com/Lusin333/Minecraft-Server-DDoSer/releases/download/2022-07-28/Meinkraft.Server.DDoS.er.exe)**
@@ -13,7 +13,7 @@ This app is for anyone that wants to DDoS some stupid kid's Minecraft server.  W
 
 Until one day, FlamingPaw said Spongebob was a better anime than My Little Pony.
 
-Lusin was outraged to hear this total lie from FlamingPaw.  In his fury, Lusin used the Minecraft Server DDoS'er to destroy FlamingPaw's Server.  Within a single day, FlamingPaw apologized and accepted that Lusin was right:  My Little Pony is the greatest anime of all-time.
+Lusin was outraged to hear this total lie from FlamingPaw.  In her fury, Lusin used the Minecraft Server DDoS'er to destroy FlamingPaw's Server.  Within a single day, FlamingPaw apologized and accepted that Lusin was right:  My Little Pony is the greatest anime of all-time.
 ***
 
 ## Preview Image

@@ -31,6 +31,3 @@ Lusin was outraged to hear this total lie from FlamingPaw.  In her fury, Lusin u
 * 📸 [Lusin's Instagram](https://www.instagram.com/Lusin.333)
 * 📽️ [Lusin's TikTok](https://www.tiktok.com/@lusin.333)
 * 👩‍💻 [Lusin's Github](https://Github.com/Lusin333)
-
-***
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Lusin.visitor-badge&left_text=Minecraft%20Server%20DDoS'er%20Visitors)
